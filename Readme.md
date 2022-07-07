@@ -26,7 +26,7 @@ Libraries: random, math, json, matplotlib, logging, os
 To run this project, copy file ConfigDefault.py change name this file on Config.py and change the values in the file to the appropriate ones, next start ClassifierNN.
 
 
-To run this project, install the appropriate libraries. Examply using cmd:
+You must have the appropriate libraries installed. Examply using cmd:
 
 ```
 pip install matplotlib
