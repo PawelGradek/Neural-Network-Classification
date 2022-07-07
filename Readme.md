@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Requirements](#requirements)
 * [Setup](#setup)
-* [Citation Request](#citation-request)
+* [Acknowledgments](#acknowledgments)
 * [Information about author](#information-about-author)
 * [License](#license)
 
@@ -32,7 +32,7 @@ To run this project, install the appropriate libraries. Examply using cmd:
 pip install matplotlib
 ```
 
-## Citation Request
+## Acknowledgments
 I would like to thank the Institute of Agrophysics of the Polish Academy of Sciences in Lublin for providing the data set
 
 
